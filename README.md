@@ -13,6 +13,7 @@
 ---
 
 ## 🚀 Live Demo
+https://smart-agri-edge-advisor-fzdtbg2dnuxhv8xvyyypkj.streamlit.app/
 
 [![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/YOUR_USERNAME/edge-agri/main/app.py)
 
